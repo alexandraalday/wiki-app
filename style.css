@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+	text-align: center;
+}
+
+#random {
+	max-height: 100px;
+	max-width: 100px;
+}
